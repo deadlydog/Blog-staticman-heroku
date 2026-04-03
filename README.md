@@ -7,7 +7,7 @@
 ## Info for Dan!!!
 
 > This repo is now archived, as I moved my Staticman hosting from Heroku to Azure.
-> The new repo for deploying to Azure can be [found here](https://github.com/deadlydog/deadlydog.github.io-staticman).
+> The new repo for deploying to Azure can be [found here](https://github.com/deadlydog/Blog-staticman).
 
 I forked this repo in order to deploy my own Staticman instance.
 
